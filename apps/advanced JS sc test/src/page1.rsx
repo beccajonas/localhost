@@ -25,12 +25,19 @@
       value="window.euResource: **{{  window.euResource}}**"
       verticalAlign="center"
     />
-    <JSONExplorer id="jsonExplorer1" value="{{ query1.data}}" />
-    <JSONExplorer id="jsonExplorer2" value="{{ query2.data }}" />
     <Text
       id="text3"
-      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      value="**Query that was run: ⬇️**"
       verticalAlign="center"
     />
+    <JSONExplorer
+      id="jsonExplorer1"
+      value="{
+'query1.resourceNameOverride':
+{{ query1.resourceNameOverride }}
+}
+"
+    />
+    <Text id="text4" value="{{ query3.data }}" verticalAlign="center" />
   </Frame>
 </Screen>
