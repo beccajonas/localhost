@@ -4,6 +4,12 @@
     "height": 12.6,
     "width": 5
   },
+  "jsonExplorer2": {
+    "row": 4.6,
+    "col": 6,
+    "height": 6,
+    "width": 4
+  },
   "text1": {
     "row": 1,
     "height": 1,
