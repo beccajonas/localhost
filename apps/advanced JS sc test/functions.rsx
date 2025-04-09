@@ -23,4 +23,11 @@
     resourceName="JavascriptQuery"
     showSuccessToaster={false}
   />
+  <SqlQueryUnified
+    id="query4"
+    query={include("./lib/query4.sql", "string")}
+    resourceDisplayName="postgres local"
+    resourceName="0f085525-3809-445c-9681-fbbb87104b7b"
+    warningCodes={[]}
+  />
 </GlobalFunctions>
