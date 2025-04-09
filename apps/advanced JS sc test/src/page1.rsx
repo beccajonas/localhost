@@ -26,5 +26,6 @@
       verticalAlign="center"
     />
     <JSONExplorer id="jsonExplorer1" value="{{ query1.data}}" />
+    <JSONExplorer id="jsonExplorer2" value="{{ query2.data }}" />
   </Frame>
 </Screen>
