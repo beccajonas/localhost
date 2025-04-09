@@ -27,5 +27,10 @@
     />
     <JSONExplorer id="jsonExplorer1" value="{{ query1.data}}" />
     <JSONExplorer id="jsonExplorer2" value="{{ query2.data }}" />
+    <Text
+      id="text3"
+      value="👋 **Hello {{ current_user.firstName || 'friend' }}!**"
+      verticalAlign="center"
+    />
   </Frame>
 </Screen>
