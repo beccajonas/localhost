@@ -7,11 +7,6 @@
   title="Page 1"
   urlSlug=""
 >
-  <RESTQuery
-    id="query4"
-    resourceDisplayName="Test API"
-    resourceName="5a9e58a5-9682-40dd-8b1d-05a0adebc454"
-  />
   <Frame
     id="$main"
     enableFullBleed={false}
