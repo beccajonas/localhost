@@ -23,4 +23,11 @@
     resourceName="JavascriptQuery"
     showSuccessToaster={false}
   />
+  <RESTQuery
+    id="query4"
+    resourceDisplayName="Dog API (EU)"
+    resourceName="60640093-548a-49fa-a04d-ca1e125552bb"
+    resourceNameOverride="{{ window.euResource }}"
+    resourceTypeOverride="restapi"
+  />
 </GlobalFunctions>
