@@ -47,4 +47,11 @@
       waitType="debounce"
     />
   </RESTQuery>
+  <RESTQuery
+    id="query6"
+    resourceDisplayName="Dog API (US)"
+    resourceName="d8869b7e-fb42-458d-8da8-772ac989bc85"
+    resourceNameOverride="{{ window.usResource }}"
+    resourceTypeOverride="restapi"
+  />
 </GlobalFunctions>
