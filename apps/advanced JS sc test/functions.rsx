@@ -9,7 +9,7 @@
     <Event
       event="success"
       method="trigger"
-      params={{}}
+      params={{ ordered: [] }}
       pluginId="query3"
       type="datasource"
       waitMs="0"
