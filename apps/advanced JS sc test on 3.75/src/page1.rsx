@@ -19,6 +19,13 @@
     resourceNameOverride="{{ window.euResource }}"
     resourceTypeOverride="restapi"
   />
+  <RESTQuery
+    id="query6"
+    resourceDisplayName="Dog API (EU)"
+    resourceName="60640093-548a-49fa-a04d-ca1e125552bb"
+    resourceNameOverride="{{ window.euResource }}"
+    resourceTypeOverride="restapi"
+  />
   <Frame
     id="$main"
     enableFullBleed={false}
