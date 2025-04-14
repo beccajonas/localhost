@@ -19,7 +19,7 @@
     "queryEditorModes": { "allowGuiMode": true, "allowSqlMode": true },
     "sshTunnelEnabled": false,
     "sshPrivateKeyName": "",
-    "disableServerSidePrepare": true
+    "disableServerSidePrepare": false
   },
   "environment": "production",
   "dynamicallyQueryable": false,
