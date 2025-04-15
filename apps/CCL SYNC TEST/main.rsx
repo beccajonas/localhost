@@ -8,6 +8,12 @@
     sticky={null}
     type="main"
   >
+    <Text
+      id="text1"
+      style={{ ordered: [{ fontSize: "h1Font" }] }}
+      value="Instance: {{ retoolContext.configVars.instance_name }}"
+      verticalAlign="center"
+    />
     <DynamicWidget_Lib_StringInput
       id="stringInput1"
       heightType="fixed"

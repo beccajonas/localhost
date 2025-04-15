@@ -1,7 +1,11 @@
 {
   "stringInput1": {
-    "row": 0.8,
+    "row": 2.2,
     "height": 7.8,
     "width": 6
+  },
+  "text1": {
+    "height": 1,
+    "width": 5
   }
 }
