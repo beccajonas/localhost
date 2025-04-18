@@ -1,0 +1,95 @@
+{
+  "name": "test",
+  "theme": {
+    "_migrated": true,
+    "automatic": [
+      "#fde68a",
+      "#eecff3",
+      "#a7f3d0",
+      "#bfdbfe",
+      "#c7d2fe",
+      "#fecaca",
+      "#fcd6bb"
+    ],
+    "borderRadius": "4px",
+    "canvas": "#FFFFFF",
+    "danger": "#dc2626",
+    "defaultFont": {
+      "fontWeight": "400",
+      "size": "12px"
+    },
+    "h1Font": {
+      "fontWeight": "700",
+      "size": "36px"
+    },
+    "h2Font": {
+      "fontWeight": "700",
+      "size": "28px"
+    },
+    "h3Font": {
+      "fontWeight": "700",
+      "size": "24px"
+    },
+    "h4Font": {
+      "fontWeight": "700",
+      "size": "18px"
+    },
+    "h5Font": {
+      "fontWeight": "700",
+      "size": "16px"
+    },
+    "h6Font": {
+      "fontWeight": "700",
+      "size": "14px"
+    },
+    "highlight": "#fde68a",
+    "info": "#3170f9",
+    "labelEmphasizedFont": {
+      "fontWeight": "600",
+      "size": "12px"
+    },
+    "labelFont": {
+      "fontWeight": "500",
+      "size": "12px"
+    },
+    "modeIds": [
+      "cd15600e"
+    ],
+    "modeMap": {
+      "cd15600e": {
+        "id": "cd15600e",
+        "label": "Light"
+      }
+    },
+    "primary": "#3170F9",
+    "secondary": "",
+    "success": "#059669",
+    "surfacePrimary": "#ffffff",
+    "surfacePrimaryBorder": "",
+    "surfaceSecondary": "#ffffff",
+    "surfaceSecondaryBorder": "",
+    "tertiary": "",
+    "textDark": "#0d0d0d",
+    "textLight": "#ffffff",
+    "variants": {
+      "ButtonWidget2-solid": {
+        "styles": {
+          "background": "highlight"
+        }
+      },
+      "MicrophoneWidget2-solid": {
+        "styles": {
+          "hoverBackground": "highlight"
+        }
+      },
+      "SplitButtonWidget-solid": {
+        "styles": {
+          "background": "highlight"
+        }
+      }
+    },
+    "warning": "#cd6f00"
+  },
+  "type": null,
+  "version": "1.0.0"
+}
