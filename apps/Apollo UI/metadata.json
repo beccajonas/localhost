@@ -1,0 +1,79 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "d9658b72-fac7-11ef-b39e-9bd5fda6e7ff",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "page2": {
+          "array": []
+        },
+        "page3": {
+          "array": []
+        },
+        "page4": {
+          "array": []
+        },
+        "settings": {
+          "array": []
+        },
+        "Dashboard": {
+          "array": []
+        },
+        "images": {
+          "array": ["imagesTableLogic"]
+        },
+        "dashboard": {
+          "array": []
+        },
+        "dashboard2": {
+          "array": []
+        },
+        "registry": {
+          "array": []
+        },
+        "externalImages": {
+          "array": []
+        },
+        "images2": {
+          "array": []
+        },
+        "createImage": {
+          "array": []
+        },
+        "logs": {
+          "array": []
+        },
+        "login": {
+          "array": []
+        },
+        "buildImage": {
+          "array": []
+        },
+        "imageDetails": {
+          "array": [
+            "dependencies",
+            "parameters",
+            "dependents",
+            "artifacts",
+            "selectImageForDependency",
+            "selectExternalImageDependency"
+          ]
+        },
+        "createImagePage": {
+          "array": ["selectRepositoryForCreateImage"]
+        },
+        "createPlanPage": {
+          "array": []
+        },
+        "callback": {
+          "array": []
+        }
+      }
+    },
+    "rootScreen": "login",
+    "isFetching": true,
+    "version": "3.148.6",
+    "experimentalDataTabEnabled": true
+  }
+}
