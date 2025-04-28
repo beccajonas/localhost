@@ -10,7 +10,7 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "https://dog.ceo/api/breed/\nmountain/images/random",
+    "baseURL": "https://dog.ceo/api/breed/mountain/images/random",
     "headers": [["", ""]],
     "urlparams": [["", ""]],
     "auth0_domain": "",
