@@ -1,0 +1,19 @@
+{
+  "button1": {
+    "row": 13.2,
+    "col": 1,
+    "height": 0.8,
+    "width": 5
+  },
+  "image1": {
+    "row": 2.8,
+    "col": 1,
+    "height": 10.2,
+    "width": 5
+  },
+  "text1": {
+    "row": 1.8,
+    "col": 1,
+    "height": 1
+  }
+}
