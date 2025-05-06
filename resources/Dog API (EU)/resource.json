@@ -11,8 +11,8 @@
   "editPrivilege": null,
   "options": {
     "baseURL": "https://dog.ceo/api/breed/mountain/images/random",
-    "headers": [["", ""]],
-    "urlparams": [["", ""]],
+    "headers": [["testHeader", "testHeaderValue"]],
+    "urlparams": [["testParam", "testParamValue"]],
     "auth0_domain": "",
     "bearer_token": "",
     "oauth2_scope": "",
