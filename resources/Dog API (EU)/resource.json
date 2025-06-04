@@ -10,9 +10,9 @@
   "ssl": null,
   "editPrivilege": null,
   "options": {
-    "baseURL": "https://dog.ceo/api/breed/mountain/images/random",
-    "headers": [["testHeader", "testHeaderValue"]],
-    "urlparams": [["testParam", "testParamValue"]],
+    "baseURL": "https://dog.ceo/api/breed/mountain/images/random21423525",
+    "headers": [],
+    "urlparams": [],
     "auth0_domain": "",
     "bearer_token": "",
     "oauth2_scope": "",
